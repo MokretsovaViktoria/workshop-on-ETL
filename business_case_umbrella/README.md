@@ -13,14 +13,14 @@
     Для версии `v1`:
 
     ```
-    docker-compose up -d
+    sudo docker-compose up -d
     ```
      
 
     Для версии `v2`:
 
     ```
-    docker compose up -d
+    sudo docker compose up -d
     ```
 
     Перейти по линку `http://localhost:8080/`.
@@ -30,11 +30,11 @@
  Для версии `v1`:
 
     ```
-    docker-compose down
+    sudo docker-compose down
     ```
      
     Для версии `v2`:
 
     ```
-    docker compose down
+    sudo docker compose down
     ```
