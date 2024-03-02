@@ -3,10 +3,8 @@
 
 1. Развернуть ВМ [ubuntu_mgpu.ova](https://disk.yandex.ru/d/Psofa9xtbgUEOw) в [VirtualBox](https://disk.yandex.ru/d/3fD00plnL_a4Cw).
 2. Клонировать на ПК задание **Бизнес кейс Umbrella** в домашний каталог ВМ. 
-
  ```
 git clone https://github.com/BosenkoTM/workshop-on-ETL.git
-
 ```
 3. Заустить контейнер с кейсом, изучить и описать основные элементы интерфейса `Apache Airflow`. 
 4. Спроектировать верхнеуровневую архитектуру аналитического решения задания **Бизнес кейс Umbrella** в `draw.io`. Необходимо использовать:
