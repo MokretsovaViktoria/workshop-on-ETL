@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# Note: this script is a bit of a "hack" to run Airflow in a single container.
-# This is obviously not ideal, but convenient for demonstration purposes.
-# In a production setting, run Airflow in separate containers, as explained in Chapter 10.
+# Примечание: этот скрипт представляет собой своего рода «взлом» для запуска Airflow в одном контейнере.
+# Это явно не идеально, но удобно для демонстрационных целей.
 
 set -x
 
