@@ -1,5 +1,4 @@
 # Бизнес кейс «Umbrella»
-Самостоятельная работа
 
 4.1.1. Развернуть ВМ [ubuntu_mgpu.ova](https://disk.yandex.ru/d/Psofa9xtbgUEOw) в [VirtualBox](https://disk.yandex.ru/d/3fD00plnL_a4Cw).
 
